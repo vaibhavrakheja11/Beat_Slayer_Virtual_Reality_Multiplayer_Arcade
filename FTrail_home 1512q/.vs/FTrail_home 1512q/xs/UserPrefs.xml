@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{40A04C86-960A-7076-6C9C-E0BE5CA9AB87}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ParamCube.cs">
+    <Files>
+      <File FileName="Assets/vibrationManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShotIfGrabbed.cs" />
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="29" Column="42" />
+      <File FileName="Assets/Scripts/Map.cs" Line="11" Column="38" />
+      <File FileName="Assets/ParamCube.cs" Line="22" Column="67" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FTrail_home 1512q" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True" />
+              <Node name="ParamCube.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="515b4fe6-1b11-4579-a098-c886503c1ae1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

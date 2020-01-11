@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{33A967E2-2D83-17F2-08BB-75EB67CC69F6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabber.cs">
+    <Files>
+      <File FileName="Assets/Scripts/NetworkManager.cs" Line="183" Column="6" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+      <File FileName="Assets/Scripts/PlayerManagerSample.cs" Line="288" Column="6" />
+      <File FileName="Assets/Scripts/SimpleShoot.cs" Line="49" Column="48" />
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="144" Column="37" />
+      <File FileName="Assets/Scripts/Map.cs" />
+      <File FileName="Assets/Scripts/spawnner.cs" />
+      <File FileName="Assets/Scripts/PlayerHealthManager.cs" Line="24" Column="31" />
+      <File FileName="Assets/Oculus/VR/Scripts/OVRManager.cs" Line="512" Column="15" />
+      <File FileName="Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabber.cs" Line="16" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FTrail_home" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Oculus" expanded="True">
+                <Node name="SampleFramework" expanded="True">
+                  <Node name="Core" expanded="True">
+                    <Node name="DistanceGrab" expanded="True">
+                      <Node name="Scripts" expanded="True">
+                        <Node name="DistanceGrabber.cs" selected="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+                <Node name="VR" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f1380e55-4a91-482c-a4b8-3c4a8efd4ea7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

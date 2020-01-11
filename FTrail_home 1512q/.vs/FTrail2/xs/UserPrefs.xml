@@ -1,0 +1,66 @@
+﻿<Properties StartupConfiguration="{FEB49D06-CBBC-61EA-1ABC-BD525C5A7C94}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SimpleShoot.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="59" Column="12" />
+      <File FileName="Assets/Scripts/NetworkManager.cs" />
+      <File FileName="Assets/Scripts/Launcher.cs" Line="218" Column="41" />
+      <File FileName="Assets/Scripts/EPlayerManager.cs" />
+      <File FileName="Assets/Scripts/EnemyController.cs" />
+      <File FileName="Assets/Scripts/SimpleShoot.cs" Line="16" Column="28" />
+      <File FileName="Assets/Scripts/Target.cs" />
+      <File FileName="Assets/Photon/PhotonUnityNetworking/Code/PhotonNetwork.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FTrail2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Nokobot" expanded="True">
+                <Node name="ModernGuns_Handgun" expanded="True" />
+              </Node>
+              <Node name="Oculus" expanded="True">
+                <Node name="Avatar" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+                <Node name="SampleFramework" expanded="True">
+                  <Node name="Core" expanded="True">
+                    <Node name="DebugUI" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                    <Node name="DistanceGrab" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                  </Node>
+                  <Node name="Editor" expanded="True" />
+                </Node>
+                <Node name="VR" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Util" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Photon" expanded="True">
+                <Node name="PhotonRealtime" expanded="True">
+                  <Node name="Code" expanded="True" />
+                </Node>
+                <Node name="PhotonUnityNetworking" expanded="True">
+                  <Node name="Code" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="SimpleShoot.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4158b445-7a3c-4bc7-86ee-7d9abd828221" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
