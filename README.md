@@ -27,7 +27,7 @@ Version 2019.2.19f1: Supports the entire game with animation rigging for full bo
 Version 2018.4.15f1: Would support the basic functions of the game that includes oculus and steam support to play the game. The only feature that won't work in this game is bonework Animation Rigging for full body haptic sense and other full body dynamics.
 
 #### Setting up Oculus and Steam VR
-The game can be played with Oculus software provided you are trying to run the game on an oculus device. Once the device is properly connected, Oculus will update the software. Please note that the minimum version of build required for Oculus Rift S (latest device by oculus) is build 12. Having build versions lesser than the value would result in errors related to full body haptic IK and bone animation rigging addon. This game is also compatible with 
+The game can be played with Oculus software provided you are trying to run the game on an oculus device. Once the device is properly connected, Oculus will update the software. Please note that the minimum version of build required for Oculus Rift S is build 12. Having build versions lesser than the specified version would result in errors related to full body haptic IK and bone animation rigging addon. This game is also compatible with HTV Vive and HTC Vive Pro but requires steam VR integration.
 
 #### Playing Beat Slayer
 Once you have clonned the repository and installed the required softwares with specified versions, you are good to go, simply press the play button on the editor. Make sure you have already vreated a safe area as the game would explicitly not prompt if a safe area ins't found.
